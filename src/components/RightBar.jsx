@@ -101,7 +101,7 @@ const RightBar = () => {
 			<Link href='#' className={classes.link} variant='body2'>
 				Science
 			</Link>
-			{/* <Divider flexItem className={classes.avatar} /> */}
+			<Divider flexItem className={classes.avatar} />
 			<Link href='#' className={classes.link} variant='body2'>
 				Movies
 			</Link>
